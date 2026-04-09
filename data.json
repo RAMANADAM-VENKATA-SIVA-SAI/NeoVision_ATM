@@ -2,8 +2,33 @@
     "4000-5000-1001": {
         "account_holder": "Linda Sanchez",
         "account_number": "4000-5000-1001",
-        "balance": 33069,
+        "balance": 38169,
         "transactions": [
+            {
+                "date": "2026-04-09 20:09:19",
+                "type": "Transfer Out",
+                "amount": 500
+            },
+            {
+                "date": "2026-04-09 20:09:00",
+                "type": "Deposit",
+                "amount": 100
+            },
+            {
+                "date": "2026-04-09 19:45:33",
+                "type": "Transfer Out",
+                "amount": 500
+            },
+            {
+                "date": "2026-04-09 19:44:47",
+                "type": "Deposit",
+                "amount": 1000
+            },
+            {
+                "date": "2026-04-09 19:43:38",
+                "type": "Deposit",
+                "amount": 5000
+            },
             {
                 "date": "2026-02-22",
                 "type": "Withdrawal",
@@ -67,8 +92,13 @@
     "4000-5000-1006": {
         "account_holder": "Jennifer Jackson",
         "account_number": "4000-5000-1006",
-        "balance": 66965,
+        "balance": 67465,
         "transactions": [
+            {
+                "date": "2026-04-09 20:09:19",
+                "type": "Transfer In",
+                "amount": 500
+            },
             {
                 "date": "2026-02-01",
                 "type": "Deposit",
@@ -91,8 +121,13 @@
     "4000-5000-1008": {
         "account_holder": "Robert Davis",
         "account_number": "4000-5000-1008",
-        "balance": 20727,
+        "balance": 21227,
         "transactions": [
+            {
+                "date": "2026-04-09 19:45:33",
+                "type": "Transfer In",
+                "amount": 500
+            },
             {
                 "date": "2026-02-01",
                 "type": "Deposit",
